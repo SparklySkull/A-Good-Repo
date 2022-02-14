@@ -13,4 +13,4 @@ If you are gonna use your PC for the tutorials, make sure you have a good typing
 About 30-40 AWPM should be enough. More is better.
 
 ## Tutorials
-- Start the test without a camera 
+- Head over to the tutorials folder above to start.
