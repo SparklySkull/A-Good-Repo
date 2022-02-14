@@ -2,7 +2,7 @@
 A really good repository, for educational purposes only.
 
 ## Purpose
-This repo was created to help Resonace's students protect themselves from their parents/guardians/teachers/etc.
+This repo was created to help Resonace's students protect themselves from their parents/guardians/teachers/etc, after an exam.
 Main purpose of this repo is to help people. I, Sparkly, do not intend to cause any harm of any kind, to anyone.
 
 ## You don't have a mobile? No worries!
