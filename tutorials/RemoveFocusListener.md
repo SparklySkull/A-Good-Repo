@@ -13,7 +13,7 @@ Don't be scared looking at the pics. This one's gonna be easy too, even if you k
 
 - Now, open ee-base.min.js by double clicking the items as static/static_root/js/ee-base.min.js
 
-![JS Source Code](res/ee-base.mi.js.png)
+![JS Source Code](res/ee-base.min.js.png)
 
 - Now, you should see Global Listeners tab on the right side of the JS code. Open it.
 - In it, open focus tab, and click remove for the "Window" option.
