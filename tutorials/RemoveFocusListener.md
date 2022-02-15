@@ -16,8 +16,7 @@ Don't be scared looking at the pics. This one's gonna be easy too, even if you k
 ![JS Source Code](res/ee-base.min.js.png)
 
 - Now, you should see Global Listeners tab on the right side of the JS code. Open it.
-- In it, open focus tab, and click remove for the "Window" option.
-- Now you'll see that the focus tab disappeared.
+- In it, click "blur" element, and click remove for the "Window" option. Now repeat the same same for "focus" option too.
 
 ![Removed Focus Listener](res/rem_focus.png)
 
